@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928573346270",
+    "project_id": "flix-id-course-12dc4",
+    "storage_bucket": "flix-id-course-12dc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928573346270:android:2880b58a4ea7c93e014d4f",
+        "android_client_info": {
+          "package_name": "com.regifn.flix_id"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpQ_8fk9JQkn55bGueOaTTSSJMm7l6GR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
